@@ -1,0 +1,1667 @@
+
+October 15, 2020, 7:21 am
+Array
+(
+    [PHP] => 7.2
+    [Wordpress] => 5.2.2
+    [WooCommerce] => 3.6.5
+    [Plugin] => 6.0.5
+)
+Array
+(
+    [Single products] => 497
+    [Variation products] => 390
+    [Total products] => 887
+    [Number projects] => 2
+)
+Array
+(
+    [0] => Array
+        (
+            [channel_hash] => d4cb75caae5a73ac6b01171816b33bfb
+            [name] => Google Shopping
+            [fields] => google_shopping
+            [taxonomy] => google_shopping
+            [utm_source] => Google Shopping
+            [type] => Advertising
+            [projectname] => sopping
+            [countries] => Ukraine
+            [fileformat] => xml
+            [cron] => daily
+            [step] => 100
+            [project_hash] => e0488270b7c308e255036975c7d12c03
+            [filename] => e0488270b7c308e255036975c7d12c03
+            [external_file] => https://zabaganka.com.ua/wp-content/uploads/woo-product-feed-pro/xml/e0488270b7c308e255036975c7d12c03.xml
+            [query_log] => https://zabaganka.com.ua/wp-content/uploads/woo-product-feed-pro/logs/query.log
+            [query_output_log] => https://zabaganka.com.ua/wp-content/uploads/woo-product-feed-pro/logs/query_output.log
+            [attributes] => Array
+                (
+                    [0] => Array
+                        (
+                            [rowCount] => 0
+                            [attribute] => g:id
+                            [prefix] => 
+                            [mapfrom] => id
+                            [suffix] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [rowCount] => 1
+                            [attribute] => g:title
+                            [prefix] => 
+                            [mapfrom] => title
+                            [suffix] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [rowCount] => 2
+                            [attribute] => g:description
+                            [prefix] => 
+                            [mapfrom] => description
+                            [suffix] => 
+                        )
+
+                    [3] => Array
+                        (
+                            [rowCount] => 3
+                            [attribute] => g:link
+                            [prefix] => 
+                            [mapfrom] => link
+                            [suffix] => 
+                        )
+
+                    [4] => Array
+                        (
+                            [rowCount] => 4
+                            [attribute] => g:image_link
+                            [prefix] => 
+                            [mapfrom] => image
+                            [suffix] => 
+                        )
+
+                    [5] => Array
+                        (
+                            [rowCount] => 5
+                            [attribute] => g:availability
+                            [prefix] => 
+                            [mapfrom] => availability
+                            [suffix] => 
+                        )
+
+                    [6] => Array
+                        (
+                            [rowCount] => 6
+                            [attribute] => g:price
+                            [prefix] => UAH
+                            [mapfrom] => price
+                            [suffix] => 
+                        )
+
+                    [7] => Array
+                        (
+                            [rowCount] => 7
+                            [attribute] => g:google_product_category
+                            [prefix] => 
+                            [mapfrom] => categories
+                            [suffix] => 
+                        )
+
+                    [8] => Array
+                        (
+                            [rowCount] => 8
+                            [attribute] => g:brand
+                            [prefix] => 
+                            [mapfrom] => custom_attributes_brend
+                            [suffix] => 
+                        )
+
+                    [9] => Array
+                        (
+                            [rowCount] => 9
+                            [attribute] => g:gtin
+                            [prefix] => 
+                            [mapfrom] => custom_attributes_gtin
+                            [suffix] => 
+                        )
+
+                    [10] => Array
+                        (
+                            [rowCount] => 10
+                            [attribute] => g:mpn
+                            [prefix] => 
+                            [mapfrom] => 
+                            [suffix] => 
+                        )
+
+                    [11] => Array
+                        (
+                            [rowCount] => 11
+                            [attribute] => g:identifier_exists
+                            [prefix] => 
+                            [mapfrom] => calculated
+                            [suffix] => 
+                        )
+
+                    [12] => Array
+                        (
+                            [rowCount] => 12
+                            [attribute] => g:condition
+                            [prefix] => 
+                            [mapfrom] => condition
+                            [suffix] => 
+                        )
+
+                    [13] => Array
+                        (
+                            [rowCount] => 13
+                            [attribute] => g:item_group_id
+                            [prefix] => 
+                            [mapfrom] => item_group_id
+                            [suffix] => 
+                        )
+
+                )
+
+            [addrow] => 1
+            [utm_medium] => cpc
+            [utm_campaign] => sopping
+            [utm_term] => id
+            [utm_content] => 
+            [woosea_page] => analytics
+            [active] => 1
+            [last_updated] => 15 Oct 2020 07:21
+            [running] => ready
+            [nr_products] => 849
+            [nr_products_processed] => 0
+            [history_products] => Array
+                (
+                    [13 Nov 2019 11:54] => 211
+                    [13 Nov 2019 12:00] => 0
+                    [13 Nov 2019 12:31] => 0
+                    [14 Nov 2019 07:18] => 0
+                    [14 Nov 2019 07:26] => 0
+                    [14 Nov 2019 12:26] => 0
+                    [14 Nov 2019 12:29] => 292
+                    [14 Nov 2019 12:41] => 595
+                    [15 Nov 2019 07:34] => 556
+                    [16 Nov 2019 07:31] => 556
+                    [17 Nov 2019 07:35] => 556
+                    [18 Nov 2019 07:27] => 556
+                    [19 Nov 2019 07:30] => 557
+                    [20 Nov 2019 07:31] => 557
+                    [21 Nov 2019 07:26] => 561
+                    [22 Nov 2019 07:29] => 561
+                    [23 Nov 2019 07:30] => 561
+                    [24 Nov 2019 08:24] => 561
+                    [25 Nov 2019 08:24] => 561
+                    [26 Nov 2019 07:58] => 561
+                    [27 Nov 2019 08:18] => 561
+                    [28 Nov 2019 07:30] => 561
+                    [29 Nov 2019 07:24] => 561
+                    [30 Nov 2019 07:57] => 561
+                    [01 Dec 2019 07:33] => 561
+                    [02 Dec 2019 08:09] => 561
+                    [03 Dec 2019 07:54] => 561
+                    [04 Dec 2019 07:47] => 561
+                    [05 Dec 2019 07:23] => 561
+                    [05 Dec 2019 07:30] => 561
+                    [06 Dec 2019 07:24] => 561
+                    [07 Dec 2019 07:57] => 561
+                    [08 Dec 2019 07:56] => 561
+                    [09 Dec 2019 07:47] => 561
+                    [10 Dec 2019 07:42] => 561
+                    [11 Dec 2019 07:31] => 564
+                    [12 Dec 2019 08:31] => 710
+                    [13 Dec 2019 07:35] => 564
+                    [14 Dec 2019 07:27] => 564
+                    [15 Dec 2019 08:07] => 564
+                    [16 Dec 2019 08:47] => 564
+                    [17 Dec 2019 07:27] => 564
+                    [18 Dec 2019 07:26] => 564
+                    [19 Dec 2019 07:31] => 564
+                    [20 Dec 2019 08:06] => 566
+                    [21 Dec 2019 07:48] => 566
+                    [21 Dec 2019 07:49] => 566
+                    [22 Dec 2019 08:01] => 566
+                    [23 Dec 2019 07:37] => 566
+                    [24 Dec 2019 07:41] => 566
+                    [25 Dec 2019 07:29] => 566
+                    [26 Dec 2019 07:33] => 566
+                    [27 Dec 2019 07:35] => 566
+                    [28 Dec 2019 07:46] => 566
+                    [29 Dec 2019 07:39] => 566
+                    [30 Dec 2019 08:16] => 566
+                    [31 Dec 2019 08:35] => 566
+                    [01 Jan 2020 08:58] => 566
+                    [02 Jan 2020 08:04] => 566
+                    [03 Jan 2020 07:33] => 565
+                    [04 Jan 2020 09:00] => 559
+                    [05 Jan 2020 08:44] => 567
+                    [06 Jan 2020 08:07] => 567
+                    [07 Jan 2020 07:48] => 567
+                    [08 Jan 2020 07:54] => 568
+                    [09 Jan 2020 07:26] => 571
+                    [10 Jan 2020 07:28] => 570
+                    [11 Jan 2020 07:32] => 600
+                    [12 Jan 2020 07:24] => 600
+                    [13 Jan 2020 07:26] => 600
+                    [14 Jan 2020 07:37] => 600
+                    [15 Jan 2020 07:26] => 603
+                    [16 Jan 2020 07:24] => 603
+                    [17 Jan 2020 07:34] => 605
+                    [18 Jan 2020 07:25] => 605
+                    [19 Jan 2020 07:42] => 605
+                    [20 Jan 2020 07:28] => 605
+                    [21 Jan 2020 07:30] => 605
+                    [22 Jan 2020 07:36] => 605
+                    [23 Jan 2020 07:25] => 608
+                    [24 Jan 2020 07:34] => 613
+                    [25 Jan 2020 07:32] => 613
+                    [26 Jan 2020 07:29] => 613
+                    [27 Jan 2020 07:27] => 613
+                    [28 Jan 2020 07:44] => 613
+                    [29 Jan 2020 08:21] => 613
+                    [30 Jan 2020 08:15] => 613
+                    [31 Jan 2020 07:38] => 613
+                    [01 Feb 2020 07:37] => 613
+                    [02 Feb 2020 07:42] => 613
+                    [03 Feb 2020 07:41] => 613
+                    [04 Feb 2020 07:57] => 613
+                    [05 Feb 2020 08:14] => 613
+                    [06 Feb 2020 08:09] => 613
+                    [07 Feb 2020 08:38] => 613
+                    [08 Feb 2020 07:49] => 613
+                    [09 Feb 2020 07:54] => 613
+                    [10 Feb 2020 07:31] => 613
+                    [11 Feb 2020 07:33] => 613
+                    [12 Feb 2020 07:53] => 613
+                    [13 Feb 2020 07:34] => 613
+                    [14 Feb 2020 08:07] => 613
+                    [15 Feb 2020 07:42] => 613
+                    [16 Feb 2020 07:31] => 614
+                    [17 Feb 2020 07:45] => 615
+                    [18 Feb 2020 07:38] => 615
+                    [19 Feb 2020 07:31] => 616
+                    [20 Feb 2020 07:34] => 616
+                    [21 Feb 2020 07:25] => 616
+                    [22 Feb 2020 07:45] => 616
+                    [23 Feb 2020 07:52] => 616
+                    [24 Feb 2020 08:01] => 616
+                    [25 Feb 2020 07:56] => 616
+                    [26 Feb 2020 07:43] => 616
+                    [27 Feb 2020 07:34] => 616
+                    [28 Feb 2020 07:35] => 630
+                    [29 Feb 2020 07:32] => 630
+                    [01 Mar 2020 07:27] => 630
+                    [02 Mar 2020 07:33] => 629
+                    [03 Mar 2020 07:30] => 629
+                    [04 Mar 2020 07:35] => 629
+                    [05 Mar 2020 07:33] => 629
+                    [06 Mar 2020 07:31] => 629
+                    [07 Mar 2020 07:28] => 629
+                    [08 Mar 2020 07:43] => 629
+                    [09 Mar 2020 08:33] => 629
+                    [10 Mar 2020 07:44] => 629
+                    [11 Mar 2020 07:27] => 629
+                    [12 Mar 2020 08:02] => 629
+                    [13 Mar 2020 07:34] => 629
+                    [14 Mar 2020 07:28] => 629
+                    [15 Mar 2020 07:29] => 629
+                    [16 Mar 2020 07:34] => 629
+                    [17 Mar 2020 06:05] => 633
+                    [17 Mar 2020 07:39] => 633
+                    [18 Mar 2020 07:38] => 637
+                    [19 Mar 2020 07:30] => 637
+                    [20 Mar 2020 07:24] => 637
+                    [21 Mar 2020 07:34] => 637
+                    [22 Mar 2020 07:23] => 637
+                    [23 Mar 2020 07:39] => 637
+                    [24 Mar 2020 07:28] => 637
+                    [25 Mar 2020 07:41] => 637
+                    [26 Mar 2020 08:01] => 637
+                    [27 Mar 2020 07:28] => 637
+                    [28 Mar 2020 07:49] => 637
+                    [29 Mar 2020 07:24] => 637
+                    [30 Mar 2020 07:24] => 637
+                    [31 Mar 2020 07:23] => 637
+                    [01 Apr 2020 07:44] => 634
+                    [02 Apr 2020 07:29] => 634
+                    [03 Apr 2020 07:29] => 634
+                    [04 Apr 2020 07:29] => 634
+                    [05 Apr 2020 07:24] => 634
+                    [06 Apr 2020 07:31] => 634
+                    [07 Apr 2020 07:35] => 634
+                    [08 Apr 2020 07:25] => 633
+                    [08 Apr 2020 14:25] => 765
+                    [09 Apr 2020 07:23] => 765
+                    [10 Apr 2020 07:26] => 763
+                    [11 Apr 2020 07:31] => 763
+                    [12 Apr 2020 07:35] => 763
+                    [13 Apr 2020 07:32] => 763
+                    [14 Apr 2020 07:30] => 763
+                    [14 Apr 2020 11:01] => 763
+                    [15 Apr 2020 07:24] => 763
+                    [16 Apr 2020 07:30] => 766
+                    [17 Apr 2020 07:35] => 766
+                    [18 Apr 2020 07:32] => 766
+                    [19 Apr 2020 07:32] => 766
+                    [20 Apr 2020 07:35] => 766
+                    [21 Apr 2020 07:50] => 766
+                    [22 Apr 2020 07:39] => 766
+                    [22 Apr 2020 07:40] => 766
+                    [23 Apr 2020 07:25] => 766
+                    [23 Apr 2020 11:35] => 766
+                    [23 Apr 2020 12:07] => 766
+                    [24 Apr 2020 07:28] => 766
+                    [25 Apr 2020 07:34] => 766
+                    [26 Apr 2020 07:34] => 766
+                    [27 Apr 2020 07:24] => 766
+                    [28 Apr 2020 07:31] => 766
+                    [29 Apr 2020 07:37] => 765
+                    [30 Apr 2020 05:54] => 773
+                    [30 Apr 2020 07:28] => 773
+                    [02 May 2020 07:31] => 773
+                    [03 May 2020 07:42] => 773
+                    [04 May 2020 07:24] => 773
+                    [05 May 2020 07:43] => 773
+                    [06 May 2020 07:24] => 773
+                    [07 May 2020 07:29] => 773
+                    [08 May 2020 07:36] => 773
+                    [09 May 2020 07:38] => 773
+                    [10 May 2020 07:30] => 773
+                    [11 May 2020 07:44] => 773
+                    [12 May 2020 07:24] => 773
+                    [13 May 2020 07:25] => 773
+                    [14 May 2020 07:39] => 773
+                    [15 May 2020 07:32] => 775
+                    [16 May 2020 07:30] => 776
+                    [17 May 2020 07:43] => 776
+                    [18 May 2020 07:29] => 776
+                    [19 May 2020 07:33] => 776
+                    [20 May 2020 07:25] => 776
+                    [21 May 2020 07:27] => 776
+                    [22 May 2020 07:35] => 790
+                    [23 May 2020 07:39] => 790
+                    [23 May 2020 07:40] => 790
+                    [24 May 2020 07:39] => 790
+                    [25 May 2020 07:29] => 790
+                    [26 May 2020 07:28] => 791
+                    [27 May 2020 07:28] => 791
+                    [28 May 2020 07:24] => 791
+                    [29 May 2020 07:27] => 792
+                    [30 May 2020 07:25] => 792
+                    [31 May 2020 07:42] => 792
+                    [01 Jun 2020 07:25] => 793
+                    [02 Jun 2020 07:37] => 795
+                    [03 Jun 2020 07:53] => 797
+                    [04 Jun 2020 07:28] => 797
+                    [05 Jun 2020 07:29] => 797
+                    [06 Jun 2020 07:36] => 802
+                    [07 Jun 2020 07:31] => 802
+                    [08 Jun 2020 07:27] => 802
+                    [09 Jun 2020 07:30] => 803
+                    [10 Jun 2020 07:42] => 803
+                    [11 Jun 2020 07:26] => 804
+                    [12 Jun 2020 07:38] => 804
+                    [13 Jun 2020 07:27] => 804
+                    [14 Jun 2020 07:24] => 804
+                    [15 Jun 2020 07:27] => 804
+                    [16 Jun 2020 07:37] => 805
+                    [17 Jun 2020 07:24] => 805
+                    [18 Jun 2020 07:27] => 805
+                    [19 Jun 2020 07:25] => 805
+                    [20 Jun 2020 07:52] => 805
+                    [21 Jun 2020 07:27] => 805
+                    [22 Jun 2020 07:24] => 805
+                    [11 Oct 2020 09:06] => 800
+                    [15 Oct 2020 07:15] => 800
+                    [15 Oct 2020 07:19] => 800
+                )
+
+            [product_variations] => on
+            [project_update] => yes
+            [mappings] => Array
+                (
+                    [105] => Array
+                        (
+                            [rowCount] => 105
+                            [categoryId] => 105
+                            [criteria] => Гигиена
+                            [map_to_category] => 469
+                        )
+
+                    [81] => Array
+                        (
+                            [rowCount] => 81
+                            [categoryId] => 81
+                            [criteria] => НОВИНКИ
+                            [map_to_category] => 469
+                        )
+
+                    [309] => Array
+                        (
+                            [rowCount] => 309
+                            [categoryId] => 309
+                            [criteria] => Зубные щетки
+                            [map_to_category] => 469
+                        )
+
+                    [310] => Array
+                        (
+                            [rowCount] => 310
+                            [categoryId] => 310
+                            [criteria] => Детские зубные щетки
+                            [map_to_category] => 469
+                        )
+
+                    [311] => Array
+                        (
+                            [rowCount] => 311
+                            [categoryId] => 311
+                            [criteria] => Зубные щетки для взрослых
+                            [map_to_category] => 469
+                        )
+
+                    [313] => Array
+                        (
+                            [rowCount] => 313
+                            [categoryId] => 313
+                            [criteria] => Менструальные чаши
+                            [map_to_category] => 469
+                        )
+
+                    [315] => Array
+                        (
+                            [rowCount] => 315
+                            [categoryId] => 315
+                            [criteria] => Менструальная чаша размер L
+                            [map_to_category] => 469
+                        )
+
+                    [314] => Array
+                        (
+                            [rowCount] => 314
+                            [categoryId] => 314
+                            [criteria] => Менструальная чаша размер S
+                            [map_to_category] => 469
+                        )
+
+                    [304] => Array
+                        (
+                            [rowCount] => 304
+                            [categoryId] => 304
+                            [criteria] => Многоразовые подгузники
+                            [map_to_category] => 469
+                        )
+
+                    [303] => Array
+                        (
+                            [rowCount] => 303
+                            [categoryId] => 303
+                            [criteria] => Мочалки из природных материалов
+                            [map_to_category] => 469
+                        )
+
+                    [302] => Array
+                        (
+                            [rowCount] => 302
+                            [categoryId] => 302
+                            [criteria] => Натуральное мыло ручной работы
+                            [map_to_category] => 469
+                        )
+
+                    [312] => Array
+                        (
+                            [rowCount] => 312
+                            [categoryId] => 312
+                            [criteria] => Расчески
+                            [map_to_category] => 469
+                        )
+
+                    [102] => Array
+                        (
+                            [rowCount] => 102
+                            [categoryId] => 102
+                            [criteria] => Изделия из конопли
+                            [map_to_category] => 469
+                        )
+
+                    [236] => Array
+                        (
+                            [rowCount] => 236
+                            [categoryId] => 236
+                            [criteria] => Кухня
+                            [map_to_category] => 469
+                        )
+
+                    [224] => Array
+                        (
+                            [rowCount] => 224
+                            [categoryId] => 224
+                            [criteria] => Одеяла
+                            [map_to_category] => 469
+                        )
+
+                    [235] => Array
+                        (
+                            [rowCount] => 235
+                            [categoryId] => 235
+                            [criteria] => Пледы
+                            [map_to_category] => 469
+                        )
+
+                    [229] => Array
+                        (
+                            [rowCount] => 229
+                            [categoryId] => 229
+                            [criteria] => Подушки
+                            [map_to_category] => 469
+                        )
+
+                    [101] => Array
+                        (
+                            [rowCount] => 101
+                            [categoryId] => 101
+                            [criteria] => Изделия из льна
+                            [map_to_category] => 469
+                        )
+
+                    [103] => Array
+                        (
+                            [rowCount] => 103
+                            [categoryId] => 103
+                            [criteria] => Для авто
+                            [map_to_category] => 469
+                        )
+
+                    [110] => Array
+                        (
+                            [rowCount] => 110
+                            [categoryId] => 110
+                            [criteria] => Наматрасники
+                            [map_to_category] => 469
+                        )
+
+                    [114] => Array
+                        (
+                            [rowCount] => 114
+                            [categoryId] => 114
+                            [criteria] => Ткань лен
+                            [map_to_category] => 469
+                        )
+
+                    [113] => Array
+                        (
+                            [rowCount] => 113
+                            [categoryId] => 113
+                            [criteria] => Ткать хлопок
+                            [map_to_category] => 469
+                        )
+
+                    [109] => Array
+                        (
+                            [rowCount] => 109
+                            [categoryId] => 109
+                            [criteria] => Одеяла
+                            [map_to_category] => 469
+                        )
+
+                    [106] => Array
+                        (
+                            [rowCount] => 106
+                            [categoryId] => 106
+                            [criteria] => Подушки
+                            [map_to_category] => 469
+                        )
+
+                    [108] => Array
+                        (
+                            [rowCount] => 108
+                            [categoryId] => 108
+                            [criteria] => Постельное белье
+                            [map_to_category] => 469
+                        )
+
+                    [213] => Array
+                        (
+                            [rowCount] => 213
+                            [categoryId] => 213
+                            [criteria] => Товары для дома
+                            [map_to_category] => 469
+                        )
+
+                    [107] => Array
+                        (
+                            [rowCount] => 107
+                            [categoryId] => 107
+                            [criteria] => Топеры
+                            [map_to_category] => 469
+                        )
+
+                    [238] => Array
+                        (
+                            [rowCount] => 238
+                            [categoryId] => 238
+                            [criteria] => Льняные вышиванки
+                            [map_to_category] => 469
+                        )
+
+                    [250] => Array
+                        (
+                            [rowCount] => 250
+                            [categoryId] => 250
+                            [criteria] => Для девочек
+                            [map_to_category] => 469
+                        )
+
+                    [251] => Array
+                        (
+                            [rowCount] => 251
+                            [categoryId] => 251
+                            [criteria] => Для мальчиков
+                            [map_to_category] => 469
+                        )
+
+                    [240] => Array
+                        (
+                            [rowCount] => 240
+                            [categoryId] => 240
+                            [criteria] => Женские
+                            [map_to_category] => 469
+                        )
+
+                    [241] => Array
+                        (
+                            [rowCount] => 241
+                            [categoryId] => 241
+                            [criteria] => Комплекты
+                            [map_to_category] => 469
+                        )
+
+                    [239] => Array
+                        (
+                            [rowCount] => 239
+                            [categoryId] => 239
+                            [criteria] => Мужские
+                            [map_to_category] => 469
+                        )
+
+                    [290] => Array
+                        (
+                            [rowCount] => 290
+                            [categoryId] => 290
+                            [criteria] => Обувь из конопли
+                            [map_to_category] => 469
+                        )
+
+                    [285] => Array
+                        (
+                            [rowCount] => 285
+                            [categoryId] => 285
+                            [criteria] => Одежда из конопли
+                            [map_to_category] => 469
+                        )
+
+                    [289] => Array
+                        (
+                            [rowCount] => 289
+                            [categoryId] => 289
+                            [criteria] => Митенки
+                            [map_to_category] => 469
+                        )
+
+                    [286] => Array
+                        (
+                            [rowCount] => 286
+                            [categoryId] => 286
+                            [criteria] => Опанча
+                            [map_to_category] => 469
+                        )
+
+                    [288] => Array
+                        (
+                            [rowCount] => 288
+                            [categoryId] => 288
+                            [criteria] => Шубы из конопляного меха
+                            [map_to_category] => 469
+                        )
+
+                    [291] => Array
+                        (
+                            [rowCount] => 291
+                            [categoryId] => 291
+                            [criteria] => Ручная работа
+                            [map_to_category] => 469
+                        )
+
+                    [307] => Array
+                        (
+                            [rowCount] => 307
+                            [categoryId] => 307
+                            [criteria] => Детские шапки
+                            [map_to_category] => 469
+                        )
+
+                    [308] => Array
+                        (
+                            [rowCount] => 308
+                            [categoryId] => 308
+                            [criteria] => Корзины из трикотажной пряжи
+                            [map_to_category] => 469
+                        )
+
+                    [305] => Array
+                        (
+                            [rowCount] => 305
+                            [categoryId] => 305
+                            [criteria] => Кошельки
+                            [map_to_category] => 469
+                        )
+
+                    [320] => Array
+                        (
+                            [rowCount] => 320
+                            [categoryId] => 320
+                            [criteria] => Натуральные свечи из воска
+                            [map_to_category] => 469
+                        )
+
+                    [306] => Array
+                        (
+                            [rowCount] => 306
+                            [categoryId] => 306
+                            [criteria] => Сумочки
+                            [map_to_category] => 469
+                        )
+
+                    [96] => Array
+                        (
+                            [rowCount] => 96
+                            [categoryId] => 96
+                            [criteria] => СКИДКИ
+                            [map_to_category] => 
+                        )
+
+                    [189] => Array
+                        (
+                            [rowCount] => 189
+                            [categoryId] => 189
+                            [criteria] => Товары для детей
+                            [map_to_category] => 469
+                        )
+
+                    [192] => Array
+                        (
+                            [rowCount] => 192
+                            [categoryId] => 192
+                            [criteria] => Матрасы и наматрасники
+                            [map_to_category] => 469
+                        )
+
+                    [193] => Array
+                        (
+                            [rowCount] => 193
+                            [categoryId] => 193
+                            [criteria] => Одеяла
+                            [map_to_category] => 469
+                        )
+
+                    [194] => Array
+                        (
+                            [rowCount] => 194
+                            [categoryId] => 194
+                            [criteria] => Подушки
+                            [map_to_category] => 469
+                        )
+
+                    [195] => Array
+                        (
+                            [rowCount] => 195
+                            [categoryId] => 195
+                            [criteria] => Постельное белье и бортики в кроватку
+                            [map_to_category] => 469
+                        )
+
+                    [104] => Array
+                        (
+                            [rowCount] => 104
+                            [categoryId] => 104
+                            [criteria] => ЭКО посуда
+                            [map_to_category] => 469
+                        )
+
+                    [237] => Array
+                        (
+                            [rowCount] => 237
+                            [categoryId] => 237
+                            [criteria] => Эко-сумки
+                            [map_to_category] => 469
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [channel_hash] => d4cb75caae5a73ac6b01171816b33bfb
+            [name] => Google Shopping
+            [fields] => google_shopping
+            [taxonomy] => google_shopping
+            [utm_source] => Google Shopping
+            [type] => Advertising
+            [projectname] => TestFeed
+            [countries] => Ukraine
+            [product_variations] => on
+            [fileformat] => xml
+            [cron] => daily
+            [step] => 101
+            [project_hash] => 5f85eea828314f50a2d4b1cc0a3f39fd
+            [filename] => 5f85eea828314f50a2d4b1cc0a3f39fd
+            [external_file] => https://zabaganka.com.ua/wp-content/uploads/woo-product-feed-pro/xml/5f85eea828314f50a2d4b1cc0a3f39fd.xml
+            [query_log] => https://zabaganka.com.ua/wp-content/uploads/woo-product-feed-pro/logs/query.log
+            [query_output_log] => https://zabaganka.com.ua/wp-content/uploads/woo-product-feed-pro/logs/query_output.log
+            [attributes] => Array
+                (
+                    [0] => Array
+                        (
+                            [rowCount] => 0
+                            [attribute] => g:id
+                            [prefix] => 
+                            [mapfrom] => id
+                            [suffix] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [rowCount] => 1
+                            [attribute] => g:title
+                            [prefix] => 
+                            [mapfrom] => title
+                            [suffix] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [rowCount] => 2
+                            [attribute] => g:description
+                            [prefix] => 
+                            [mapfrom] => description
+                            [suffix] => 
+                        )
+
+                    [3] => Array
+                        (
+                            [rowCount] => 3
+                            [attribute] => g:link
+                            [prefix] => 
+                            [mapfrom] => link
+                            [suffix] => 
+                        )
+
+                    [4] => Array
+                        (
+                            [rowCount] => 4
+                            [attribute] => g:image_link
+                            [prefix] => 
+                            [mapfrom] => image
+                            [suffix] => 
+                        )
+
+                    [5] => Array
+                        (
+                            [rowCount] => 5
+                            [attribute] => g:availability
+                            [prefix] => 
+                            [mapfrom] => availability
+                            [suffix] => 
+                        )
+
+                    [6] => Array
+                        (
+                            [rowCount] => 6
+                            [attribute] => g:price
+                            [prefix] => UAH
+                            [mapfrom] => price
+                            [suffix] => 
+                        )
+
+                    [7] => Array
+                        (
+                            [rowCount] => 7
+                            [attribute] => g:google_product_category
+                            [prefix] => 
+                            [mapfrom] => categories
+                            [suffix] => 
+                        )
+
+                    [8] => Array
+                        (
+                            [rowCount] => 8
+                            [attribute] => g:brand
+                            [prefix] => 
+                            [mapfrom] => 
+                            [suffix] => 
+                        )
+
+                    [9] => Array
+                        (
+                            [rowCount] => 9
+                            [attribute] => g:gtin
+                            [prefix] => 
+                            [mapfrom] => 
+                            [suffix] => 
+                        )
+
+                    [10] => Array
+                        (
+                            [rowCount] => 10
+                            [attribute] => g:mpn
+                            [prefix] => 
+                            [mapfrom] => 
+                            [suffix] => 
+                        )
+
+                    [11] => Array
+                        (
+                            [rowCount] => 11
+                            [attribute] => g:identifier_exists
+                            [prefix] => 
+                            [mapfrom] => calculated
+                            [suffix] => 
+                        )
+
+                    [12] => Array
+                        (
+                            [rowCount] => 12
+                            [attribute] => g:condition
+                            [prefix] => 
+                            [mapfrom] => condition
+                            [suffix] => 
+                        )
+
+                    [13] => Array
+                        (
+                            [rowCount] => 13
+                            [attribute] => g:item_group_id
+                            [prefix] => 
+                            [mapfrom] => item_group_id
+                            [suffix] => 
+                        )
+
+                )
+
+            [addrow] => 1
+            [mappings] => Array
+                (
+                    [81] => Array
+                        (
+                            [rowCount] => 81
+                            [categoryId] => 81
+                            [criteria] => НОВИНКИ
+                            [map_to_category] => 
+                        )
+
+                    [290] => Array
+                        (
+                            [rowCount] => 290
+                            [categoryId] => 290
+                            [criteria] => Обувь из конопли
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [285] => Array
+                        (
+                            [rowCount] => 285
+                            [categoryId] => 285
+                            [criteria] => Одежда из конопли
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [289] => Array
+                        (
+                            [rowCount] => 289
+                            [categoryId] => 289
+                            [criteria] => Митенки
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [286] => Array
+                        (
+                            [rowCount] => 286
+                            [categoryId] => 286
+                            [criteria] => Опанча
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [288] => Array
+                        (
+                            [rowCount] => 288
+                            [categoryId] => 288
+                            [criteria] => Шубы из конопляного меха
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [291] => Array
+                        (
+                            [rowCount] => 291
+                            [categoryId] => 291
+                            [criteria] => Ручная работа
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [307] => Array
+                        (
+                            [rowCount] => 307
+                            [categoryId] => 307
+                            [criteria] => Детские шапки
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [308] => Array
+                        (
+                            [rowCount] => 308
+                            [categoryId] => 308
+                            [criteria] => Корзины из трикотажной пряжи
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [305] => Array
+                        (
+                            [rowCount] => 305
+                            [categoryId] => 305
+                            [criteria] => Кошельки
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [320] => Array
+                        (
+                            [rowCount] => 320
+                            [categoryId] => 320
+                            [criteria] => Натуральные свечи из воска
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [306] => Array
+                        (
+                            [rowCount] => 306
+                            [categoryId] => 306
+                            [criteria] => Сумочки
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [96] => Array
+                        (
+                            [rowCount] => 96
+                            [categoryId] => 96
+                            [criteria] => СКИДКИ
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [189] => Array
+                        (
+                            [rowCount] => 189
+                            [categoryId] => 189
+                            [criteria] => Товары для детей
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [192] => Array
+                        (
+                            [rowCount] => 192
+                            [categoryId] => 192
+                            [criteria] => Матрасы и наматрасники
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [193] => Array
+                        (
+                            [rowCount] => 193
+                            [categoryId] => 193
+                            [criteria] => Одеяла
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [194] => Array
+                        (
+                            [rowCount] => 194
+                            [categoryId] => 194
+                            [criteria] => Подушки
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [195] => Array
+                        (
+                            [rowCount] => 195
+                            [categoryId] => 195
+                            [criteria] => Постельное белье и бортики в кроватку
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [104] => Array
+                        (
+                            [rowCount] => 104
+                            [categoryId] => 104
+                            [criteria] => ЭКО посуда
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [237] => Array
+                        (
+                            [rowCount] => 237
+                            [categoryId] => 237
+                            [criteria] => Эко-сумки
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [105] => Array
+                        (
+                            [rowCount] => 105
+                            [categoryId] => 105
+                            [criteria] => Гигиена
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [309] => Array
+                        (
+                            [rowCount] => 309
+                            [categoryId] => 309
+                            [criteria] => Зубные щетки
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [310] => Array
+                        (
+                            [rowCount] => 310
+                            [categoryId] => 310
+                            [criteria] => Детские зубные щетки
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [311] => Array
+                        (
+                            [rowCount] => 311
+                            [categoryId] => 311
+                            [criteria] => Зубные щетки для взрослых
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [313] => Array
+                        (
+                            [rowCount] => 313
+                            [categoryId] => 313
+                            [criteria] => Менструальные чаши
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [315] => Array
+                        (
+                            [rowCount] => 315
+                            [categoryId] => 315
+                            [criteria] => Менструальная чаша размер L
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [314] => Array
+                        (
+                            [rowCount] => 314
+                            [categoryId] => 314
+                            [criteria] => Менструальная чаша размер S
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [304] => Array
+                        (
+                            [rowCount] => 304
+                            [categoryId] => 304
+                            [criteria] => Многоразовые подгузники
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [303] => Array
+                        (
+                            [rowCount] => 303
+                            [categoryId] => 303
+                            [criteria] => Мочалки из природных материалов
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [302] => Array
+                        (
+                            [rowCount] => 302
+                            [categoryId] => 302
+                            [criteria] => Натуральное мыло ручной работы
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [312] => Array
+                        (
+                            [rowCount] => 312
+                            [categoryId] => 312
+                            [criteria] => Расчески
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [102] => Array
+                        (
+                            [rowCount] => 102
+                            [categoryId] => 102
+                            [criteria] => Изделия из конопли
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [236] => Array
+                        (
+                            [rowCount] => 236
+                            [categoryId] => 236
+                            [criteria] => Кухня
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [224] => Array
+                        (
+                            [rowCount] => 224
+                            [categoryId] => 224
+                            [criteria] => Одеяла
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [235] => Array
+                        (
+                            [rowCount] => 235
+                            [categoryId] => 235
+                            [criteria] => Пледы
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [229] => Array
+                        (
+                            [rowCount] => 229
+                            [categoryId] => 229
+                            [criteria] => Подушки
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [101] => Array
+                        (
+                            [rowCount] => 101
+                            [categoryId] => 101
+                            [criteria] => Изделия из льна
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [103] => Array
+                        (
+                            [rowCount] => 103
+                            [categoryId] => 103
+                            [criteria] => Для авто
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [110] => Array
+                        (
+                            [rowCount] => 110
+                            [categoryId] => 110
+                            [criteria] => Наматрасники
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [114] => Array
+                        (
+                            [rowCount] => 114
+                            [categoryId] => 114
+                            [criteria] => Ткань лен
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [113] => Array
+                        (
+                            [rowCount] => 113
+                            [categoryId] => 113
+                            [criteria] => Ткать хлопок
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [109] => Array
+                        (
+                            [rowCount] => 109
+                            [categoryId] => 109
+                            [criteria] => Одеяла
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [106] => Array
+                        (
+                            [rowCount] => 106
+                            [categoryId] => 106
+                            [criteria] => Подушки
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [108] => Array
+                        (
+                            [rowCount] => 108
+                            [categoryId] => 108
+                            [criteria] => Постельное белье
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [213] => Array
+                        (
+                            [rowCount] => 213
+                            [categoryId] => 213
+                            [criteria] => Товары для дома
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [107] => Array
+                        (
+                            [rowCount] => 107
+                            [categoryId] => 107
+                            [criteria] => Топеры
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [238] => Array
+                        (
+                            [rowCount] => 238
+                            [categoryId] => 238
+                            [criteria] => Льняные вышиванки
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [250] => Array
+                        (
+                            [rowCount] => 250
+                            [categoryId] => 250
+                            [criteria] => Для девочек
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [251] => Array
+                        (
+                            [rowCount] => 251
+                            [categoryId] => 251
+                            [criteria] => Для мальчиков
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [240] => Array
+                        (
+                            [rowCount] => 240
+                            [categoryId] => 240
+                            [criteria] => Женские
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [241] => Array
+                        (
+                            [rowCount] => 241
+                            [categoryId] => 241
+                            [criteria] => Комплекты
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                    [239] => Array
+                        (
+                            [rowCount] => 239
+                            [categoryId] => 239
+                            [criteria] => Мужские
+                            [map_to_category] => 2915 - Health & Beauty > Personal Care
+                        )
+
+                )
+
+            [utm_on] => on
+            [utm_medium] => cpc
+            [utm_campaign] => TestFeed
+            [utm_term] => id
+            [utm_content] => 
+            [woosea_page] => analytics
+            [active] => 1
+            [last_updated] => 15 Oct 2020 07:17
+            [running] => processing
+            [nr_products] => 681
+            [nr_products_processed] => 888
+            [history_products] => Array
+                (
+                    [14 Nov 2019 11:59] => 0
+                    [14 Nov 2019 12:08] => 0
+                    [14 Nov 2019 12:28] => 0
+                    [15 Nov 2019 07:34] => 556
+                    [16 Nov 2019 07:31] => 556
+                    [17 Nov 2019 07:35] => 556
+                    [18 Nov 2019 07:27] => 556
+                    [19 Nov 2019 07:30] => 557
+                    [20 Nov 2019 07:31] => 557
+                    [21 Nov 2019 07:26] => 561
+                    [22 Nov 2019 07:29] => 561
+                    [23 Nov 2019 07:30] => 561
+                    [24 Nov 2019 08:24] => 561
+                    [25 Nov 2019 08:24] => 561
+                    [26 Nov 2019 07:58] => 561
+                    [27 Nov 2019 08:18] => 561
+                    [28 Nov 2019 07:30] => 561
+                    [29 Nov 2019 07:24] => 561
+                    [30 Nov 2019 07:57] => 561
+                    [01 Dec 2019 07:33] => 561
+                    [02 Dec 2019 08:09] => 561
+                    [03 Dec 2019 07:54] => 561
+                    [04 Dec 2019 07:47] => 561
+                    [05 Dec 2019 07:23] => 561
+                    [05 Dec 2019 07:30] => 561
+                    [06 Dec 2019 07:24] => 561
+                    [07 Dec 2019 07:57] => 561
+                    [08 Dec 2019 07:56] => 561
+                    [09 Dec 2019 07:47] => 561
+                    [10 Dec 2019 07:42] => 561
+                    [11 Dec 2019 07:31] => 564
+                    [12 Dec 2019 08:31] => 710
+                    [13 Dec 2019 07:35] => 564
+                    [14 Dec 2019 07:27] => 564
+                    [15 Dec 2019 08:07] => 564
+                    [16 Dec 2019 08:47] => 564
+                    [17 Dec 2019 07:27] => 564
+                    [18 Dec 2019 07:26] => 564
+                    [19 Dec 2019 07:31] => 564
+                    [20 Dec 2019 08:06] => 566
+                    [21 Dec 2019 07:48] => 566
+                    [21 Dec 2019 07:49] => 566
+                    [22 Dec 2019 08:01] => 566
+                    [23 Dec 2019 07:37] => 566
+                    [24 Dec 2019 07:41] => 566
+                    [25 Dec 2019 07:29] => 566
+                    [26 Dec 2019 07:33] => 566
+                    [27 Dec 2019 07:35] => 566
+                    [28 Dec 2019 07:46] => 566
+                    [29 Dec 2019 07:39] => 566
+                    [30 Dec 2019 08:16] => 566
+                    [31 Dec 2019 08:35] => 566
+                    [01 Jan 2020 08:58] => 566
+                    [02 Jan 2020 08:04] => 566
+                    [03 Jan 2020 07:33] => 565
+                    [04 Jan 2020 09:00] => 559
+                    [05 Jan 2020 08:44] => 567
+                    [06 Jan 2020 08:07] => 567
+                    [07 Jan 2020 07:48] => 567
+                    [08 Jan 2020 07:54] => 568
+                    [09 Jan 2020 07:26] => 571
+                    [10 Jan 2020 07:28] => 570
+                    [11 Jan 2020 07:32] => 600
+                    [12 Jan 2020 07:24] => 600
+                    [13 Jan 2020 07:26] => 600
+                    [14 Jan 2020 07:37] => 600
+                    [15 Jan 2020 07:26] => 603
+                    [16 Jan 2020 07:24] => 603
+                    [17 Jan 2020 07:34] => 605
+                    [18 Jan 2020 07:25] => 605
+                    [19 Jan 2020 07:42] => 605
+                    [20 Jan 2020 07:28] => 605
+                    [21 Jan 2020 07:30] => 605
+                    [22 Jan 2020 07:36] => 605
+                    [23 Jan 2020 07:25] => 608
+                    [24 Jan 2020 07:34] => 613
+                    [25 Jan 2020 07:32] => 613
+                    [26 Jan 2020 07:29] => 613
+                    [27 Jan 2020 07:27] => 613
+                    [28 Jan 2020 07:44] => 613
+                    [29 Jan 2020 08:21] => 613
+                    [30 Jan 2020 08:15] => 613
+                    [31 Jan 2020 07:38] => 613
+                    [01 Feb 2020 07:37] => 613
+                    [02 Feb 2020 07:42] => 613
+                    [03 Feb 2020 07:41] => 613
+                    [04 Feb 2020 07:57] => 613
+                    [05 Feb 2020 08:14] => 613
+                    [06 Feb 2020 08:09] => 613
+                    [07 Feb 2020 08:38] => 613
+                    [08 Feb 2020 07:49] => 613
+                    [09 Feb 2020 07:54] => 613
+                    [10 Feb 2020 07:31] => 613
+                    [11 Feb 2020 07:33] => 613
+                    [12 Feb 2020 07:53] => 613
+                    [13 Feb 2020 07:34] => 613
+                    [14 Feb 2020 08:07] => 613
+                    [15 Feb 2020 07:42] => 613
+                    [16 Feb 2020 07:32] => 614
+                    [17 Feb 2020 07:45] => 615
+                    [18 Feb 2020 07:38] => 615
+                    [19 Feb 2020 07:31] => 616
+                    [20 Feb 2020 07:34] => 616
+                    [21 Feb 2020 07:25] => 616
+                    [22 Feb 2020 07:45] => 616
+                    [23 Feb 2020 07:52] => 616
+                    [24 Feb 2020 08:01] => 616
+                    [25 Feb 2020 07:56] => 616
+                    [26 Feb 2020 07:43] => 616
+                    [27 Feb 2020 07:34] => 616
+                    [28 Feb 2020 07:37] => 630
+                    [29 Feb 2020 07:32] => 630
+                    [01 Mar 2020 07:27] => 630
+                    [02 Mar 2020 07:33] => 629
+                    [03 Mar 2020 07:30] => 629
+                    [04 Mar 2020 07:35] => 629
+                    [05 Mar 2020 07:33] => 629
+                    [06 Mar 2020 07:31] => 629
+                    [07 Mar 2020 07:29] => 629
+                    [08 Mar 2020 07:43] => 629
+                    [09 Mar 2020 08:33] => 629
+                    [10 Mar 2020 07:44] => 629
+                    [11 Mar 2020 07:27] => 629
+                    [12 Mar 2020 08:02] => 629
+                    [13 Mar 2020 07:34] => 629
+                    [14 Mar 2020 07:28] => 629
+                    [15 Mar 2020 07:29] => 629
+                    [16 Mar 2020 07:34] => 629
+                    [17 Mar 2020 07:39] => 633
+                    [18 Mar 2020 07:38] => 637
+                    [19 Mar 2020 07:30] => 637
+                    [20 Mar 2020 07:24] => 637
+                    [21 Mar 2020 07:34] => 637
+                    [22 Mar 2020 07:24] => 637
+                    [23 Mar 2020 07:39] => 637
+                    [24 Mar 2020 07:28] => 637
+                    [25 Mar 2020 07:41] => 637
+                    [26 Mar 2020 08:01] => 637
+                    [27 Mar 2020 07:29] => 637
+                    [28 Mar 2020 07:49] => 637
+                    [29 Mar 2020 07:24] => 637
+                    [30 Mar 2020 07:24] => 637
+                    [31 Mar 2020 07:23] => 637
+                    [01 Apr 2020 07:44] => 634
+                    [02 Apr 2020 07:29] => 634
+                    [03 Apr 2020 07:29] => 634
+                    [04 Apr 2020 07:29] => 634
+                    [05 Apr 2020 07:24] => 634
+                    [06 Apr 2020 07:31] => 634
+                    [07 Apr 2020 07:35] => 634
+                    [08 Apr 2020 07:25] => 633
+                    [09 Apr 2020 07:23] => 765
+                    [10 Apr 2020 07:26] => 763
+                    [11 Apr 2020 07:31] => 763
+                    [12 Apr 2020 07:35] => 763
+                    [13 Apr 2020 07:32] => 763
+                    [14 Apr 2020 07:30] => 763
+                    [15 Apr 2020 07:24] => 763
+                    [16 Apr 2020 07:34] => 766
+                    [17 Apr 2020 07:35] => 766
+                    [18 Apr 2020 07:32] => 766
+                    [19 Apr 2020 07:32] => 766
+                    [20 Apr 2020 07:35] => 766
+                    [21 Apr 2020 07:50] => 766
+                    [22 Apr 2020 07:39] => 766
+                    [22 Apr 2020 07:40] => 766
+                    [23 Apr 2020 07:25] => 766
+                    [24 Apr 2020 07:28] => 766
+                    [25 Apr 2020 07:34] => 766
+                    [26 Apr 2020 07:34] => 766
+                    [27 Apr 2020 07:24] => 766
+                    [28 Apr 2020 07:31] => 766
+                    [29 Apr 2020 07:37] => 765
+                    [30 Apr 2020 07:27] => 619
+                    [02 May 2020 07:30] => 619
+                    [03 May 2020 07:34] => 619
+                    [04 May 2020 07:24] => 619
+                    [05 May 2020 07:43] => 619
+                    [06 May 2020 07:24] => 619
+                    [07 May 2020 07:29] => 619
+                    [08 May 2020 07:36] => 619
+                    [09 May 2020 07:36] => 619
+                    [10 May 2020 07:30] => 619
+                    [11 May 2020 07:42] => 619
+                    [12 May 2020 07:23] => 619
+                    [13 May 2020 07:25] => 619
+                    [14 May 2020 07:32] => 619
+                    [15 May 2020 07:32] => 618
+                    [16 May 2020 07:28] => 618
+                    [17 May 2020 07:43] => 618
+                    [18 May 2020 07:26] => 618
+                    [19 May 2020 07:33] => 618
+                    [20 May 2020 07:24] => 618
+                    [21 May 2020 07:27] => 618
+                    [22 May 2020 07:35] => 632
+                    [23 May 2020 07:39] => 632
+                    [23 May 2020 07:40] => 632
+                    [24 May 2020 07:39] => 632
+                    [25 May 2020 07:29] => 632
+                    [26 May 2020 07:27] => 632
+                    [27 May 2020 07:28] => 632
+                    [28 May 2020 07:24] => 632
+                    [29 May 2020 07:26] => 632
+                    [30 May 2020 07:24] => 632
+                    [31 May 2020 07:34] => 632
+                    [01 Jun 2020 07:24] => 631
+                    [02 Jun 2020 07:36] => 636
+                    [03 Jun 2020 07:53] => 635
+                    [04 Jun 2020 07:27] => 635
+                    [05 Jun 2020 07:28] => 635
+                    [06 Jun 2020 07:31] => 639
+                    [07 Jun 2020 07:31] => 639
+                    [08 Jun 2020 07:27] => 639
+                    [09 Jun 2020 07:29] => 642
+                    [10 Jun 2020 07:42] => 642
+                    [11 Jun 2020 07:26] => 642
+                    [12 Jun 2020 07:38] => 642
+                    [13 Jun 2020 07:26] => 642
+                    [14 Jun 2020 07:23] => 642
+                    [15 Jun 2020 07:26] => 642
+                    [16 Jun 2020 07:37] => 642
+                    [17 Jun 2020 07:24] => 642
+                    [18 Jun 2020 07:26] => 642
+                    [19 Jun 2020 07:25] => 642
+                    [20 Jun 2020 07:52] => 642
+                    [21 Jun 2020 07:27] => 642
+                    [22 Jun 2020 07:24] => 642
+                    [11 Oct 2020 09:06] => 800
+                    [15 Oct 2020 07:15] => 800
+                    [15 Oct 2020 07:19] => 800
+                )
+
+        )
+
+)
+Array
+(
+)

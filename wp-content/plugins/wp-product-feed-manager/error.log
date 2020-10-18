@@ -1,0 +1,4 @@
+2019-06-21 10:18:40 - Error Message: Function get_filter_query returned false on feed 
+2019-06-21 10:18:40 - Error Message: Function get_column_names_required_for_feed returned zero columns
+2019-06-21 10:18:40 - Error Message: Function get_active_fields returned zero fields.
+2019-06-21 10:18:40 - Error Message: Function get_channel_to_woocommerce_field_relations returned zero relations.

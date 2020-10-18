@@ -1,0 +1,4 @@
+2020-10-15T07:18:50+00:00 CRITICAL require(): Failed opening required '/home/jc266305/zabaganka.com.ua/test/wp-includes/SimplePie/Content/Type/Sniffer.php' (include_path='.:/usr/local/pear/php72') в /home/jc266305/zabaganka.com.ua/test/wp-includes/class-simplepie.php на строке 12
+
+2020-10-15T07:19:10+00:00 CRITICAL require(): Failed opening required '/home/jc266305/zabaganka.com.ua/test/wp-includes/SimplePie/Content/Type/Sniffer.php' (include_path='.:/usr/local/pear/php72') в /home/jc266305/zabaganka.com.ua/test/wp-includes/class-simplepie.php на строке 12
+

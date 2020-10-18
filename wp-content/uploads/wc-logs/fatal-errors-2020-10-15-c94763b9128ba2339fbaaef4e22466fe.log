@@ -1,0 +1,39 @@
+2020-10-15T18:58:23+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\xampp\htdocs\sites\all\zabaganka\wp-content\themes\zabaganka\parts\order_form.php:7
+Stack trace:
+#0 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\template.php(725): require()
+#1 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\template.php(672): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\sites\all\zabaganka\wp-content\themes\zabaganka\functions.php(370): get_template_part('parts/order_for...')
+#4 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\class-wp-hook.php(287): updateOrderForm('')
+#5 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\sites\all\zabaganka\wp-admin\admin-ajax.php(175): do_action('wp_ajax_updateO...')
+#8 {main}
+  th в C:\xampp\htdocs\sites\all\zabaganka\wp-content\themes\zabaganka\parts\order_form.php на строке 7
+
+2020-10-15T18:59:07+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\xampp\htdocs\sites\all\zabaganka\wp-content\themes\zabaganka\parts\order_form.php:7
+Stack trace:
+#0 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\template.php(725): require()
+#1 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\template.php(672): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\sites\all\zabaganka\wp-content\themes\zabaganka\functions.php(370): get_template_part('parts/order_for...')
+#4 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\class-wp-hook.php(287): updateOrderForm('')
+#5 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\sites\all\zabaganka\wp-admin\admin-ajax.php(175): do_action('wp_ajax_updateO...')
+#8 {main}
+  th в C:\xampp\htdocs\sites\all\zabaganka\wp-content\themes\zabaganka\parts\order_form.php на строке 7
+
+2020-10-15T18:59:32+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\xampp\htdocs\sites\all\zabaganka\wp-content\themes\zabaganka\parts\order_form.php:7
+Stack trace:
+#0 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\template.php(725): require()
+#1 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\template.php(672): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\sites\all\zabaganka\wp-content\themes\zabaganka\functions.php(370): get_template_part('parts/order_for...')
+#4 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\class-wp-hook.php(287): updateOrderForm('')
+#5 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 C:\xampp\htdocs\sites\all\zabaganka\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\sites\all\zabaganka\wp-admin\admin-ajax.php(175): do_action('wp_ajax_updateO...')
+#8 {main}
+  th в C:\xampp\htdocs\sites\all\zabaganka\wp-content\themes\zabaganka\parts\order_form.php на строке 7
+
